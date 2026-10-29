@@ -1,0 +1,17 @@
+# Build outputs
+*.exe
+*.o
+*.obj
+
+# Temporary test archives and test folders
+demo_vault.vlt
+*.vlt
+demo_sample_project/
+demo_restored_v1/
+recovered*/
+
+# Editor / OS files
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
